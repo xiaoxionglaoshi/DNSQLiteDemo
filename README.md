@@ -1,8 +1,7 @@
 # DNSQLiteDemo
-SQLite.swift的使用
-第三方库[SQLite.swift](https://github.com/stephencelis/SQLite.swift)
+本地化存储之SQLite.swift使用
 
-[源码下载](https://github.com/xiaoxionglaoshi/DNSQLiteDemo)
+第三方库[SQLite.swift](https://github.com/stephencelis/SQLite.swift)
 
 ### 创建数据库文件
 ```
